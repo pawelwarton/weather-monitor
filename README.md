@@ -8,6 +8,9 @@ Schema bazy zostanie stworzona automatycznie przy starcie aplikacji poprzez Flyw
 Katalog do raportów konfiguruje się poprzez property
 `app.report.output-dir` w [application.properties](./src/main/resources/application.properties).
 
+## Testy
+Do uruchomienia testow **potrzebny jest Docker**.
+
 ## Uruchamianie aplikacji
 
 Najproście jest wywołać `#main` w
